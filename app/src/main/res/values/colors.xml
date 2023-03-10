@@ -6,5 +6,11 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="blackLite">#2E2E2E</color>
+    <color name="blackLite_200">#252525</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue">#184CE6</color>
+    <color name="purple">#653BAC</color>
+    <color name="neon">#1FECEC</color>
+    <color name="orange">#FF9800</color>
 </resources>

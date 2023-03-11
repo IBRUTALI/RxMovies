@@ -5,7 +5,7 @@
     <item
         android:id="@+id/item_favorite"
         android:icon="@drawable/ic_baseline_star_rate_24"
-        android:iconTint="@color/orange"
+        app:iconTint="@color/orange"
         android:title=""
         app:showAsAction="always"/>
     <item

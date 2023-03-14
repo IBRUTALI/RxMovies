@@ -6,7 +6,7 @@
         <item name="colorPrimaryVariant">@color/blue_lite</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/blackLite_200</item>
+        <item name="colorSecondary">@color/white</item>
         <item name="colorSecondaryVariant">@color/blackLite</item>
         <item name="colorOnSecondary">@color/blackLite</item>
         <item name="android:windowNoTitle">true</item>

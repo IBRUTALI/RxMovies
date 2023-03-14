@@ -17,7 +17,7 @@
     <fragment
         android:id="@+id/mainFragment"
         android:name="com.example.rxmovies.screens.main.MainFragment"
-        android:label="fragment_main"
+        android:label="@string/top_250"
         tools:layout="@layout/fragment_main" >
         <action
             android:id="@+id/action_mainFragment_to_detailsFragment"
@@ -29,11 +29,11 @@
     <fragment
         android:id="@+id/detailsFragment"
         android:name="com.example.rxmovies.screens.details.DetailsFragment"
-        android:label="fragment_details"
+        android:label="@string/movie"
         tools:layout="@layout/fragment_details" />
     <fragment
         android:id="@+id/favoritesFragment"
         android:name="com.example.rxmovies.screens.favorites.FavoritesFragment"
-        android:label="fragment_favorites"
+        android:label="@string/favorites"
         tools:layout="@layout/fragment_favorites" />
 </navigation>
